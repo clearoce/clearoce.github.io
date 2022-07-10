@@ -1,0 +1,31 @@
+---
+layout: post
+title:  计算机组成原理
+date:   2022-07-09 09:03:30 +0800
+description: 2023考研408计算机组成原理复习大纲
+img:    rainy_nights.jpg # Add image post (optional)
+tags:   [Postgraduate]
+author: # Add name author (optional)
+---
+
+# 计算机系统发展概述
+> ## 计算机系统层次结构
+> ## 计算机系统的基本组成
+> > 软件：在硬件上运行的程序和相关的数据及文档。
+> >
+> > 硬件：有形的物理设备，是计算机系统中实际物理装置的总称。
+> > > 冯·诺依曼体系结构
+> > > > 输入设备
+> > > >
+> > > > 输出设备
+> > > >
+> > > > 存储器
+> > > >
+> > > > 运算器
+> > > >
+> > > > 控制器
+> ## 计算机系统的工作原理   
+> ## 计算机性能指标
+>
+> ## Headers work too
+> This is the outer quote again.

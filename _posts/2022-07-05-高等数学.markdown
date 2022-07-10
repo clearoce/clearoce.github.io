@@ -3,8 +3,8 @@ layout: post
 title:  高等数学
 date:   2022-07-05 15:46:32 +0800
 description: 2023数学一复习大纲
-img: wind_beneath.jpg # Add image post (optional)
-tags: [Postgraduate]
+img:    wind_beneath.jpg # Add image post (optional)
+tags:   [Postgraduate]
 author: # Add name author (optional)
 ---
 

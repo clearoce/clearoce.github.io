@@ -3,8 +3,8 @@ layout: post
 title:  Kramdown
 date:   2021-04-25 13:32:20 +0800
 description: Kramdown Writing Guide - Version 2.4.0 - released on 2022/04/25.
-img: naterra.png
-tags: [References]
+img:    naterra.png
+tags:   [References]
 ---
 
 Kramdown has two main classes of elements: block and span-level elements. Block-level elements are used to create paragraphs, headers, lists and so on whereas span-level elements are used to markup text phrases as emphasized, as a link and so on.
