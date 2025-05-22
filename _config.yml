@@ -17,19 +17,14 @@ permalink: "/:categories/:title:output_ext"
 title: INFINITY 中文如何呢
 
 # Author settings
-author: clearoce # add your name
-author-pic: clearoce.jpg
-about-author: A Ghost
-
-# Contact links
-email: clearoce315@gmail.com
-website: www.clearoce.me # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: clearoce # Add your Github handle
+author:
+  name: clearoce
+  github: clearoce
+  email: clearoce315@gmail.com
+  description: A Ghost
 
 plugins:
   - jekyll-avatar
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
-
